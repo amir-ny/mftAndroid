@@ -1,3 +1,5 @@
+package com.example.mftandroidproject;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -6,9 +8,6 @@ import android.widget.EditText;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
-import com.example.mftandroidproject.Contact;
-import com.example.mftandroidproject.R;
 
 import java.util.ArrayList;
 
